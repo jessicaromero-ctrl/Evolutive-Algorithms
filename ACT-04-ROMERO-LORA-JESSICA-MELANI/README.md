@@ -15,8 +15,6 @@ Comparación de tres formas de recombinar (M14, M15, M16) y tres formas de mutar
 | Ruta | Contenido |
 |---|---|
 | `ae_actividad04.py` | Análisis completo: modelo, óptimo certificado, siete etapas, 16 pruebas, calibración, experimento, estadística, figuras y verificación |
-| `construir_docx.py` | Genera el informe Word a partir de los CSV de `resultados/` |
-| `Actividad04_Romero_Lora.docx` | Informe de 8 páginas (introducción, desarrollo, continuación, figuras y tablas) |
 | `resultados/` | Tablas CSV de cada etapa del análisis y `manifiesto.json` con versiones y huellas SHA-256 |
 | `figuras/` | Ocho figuras PNG a 200 ppp generadas por el script |
 | `requirements.txt` | Dependencias |
