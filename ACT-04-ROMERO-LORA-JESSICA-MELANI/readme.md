@@ -670,9 +670,6 @@ print("Configuración elegida:", analisis["elegida"])
 
 | Ruta | Contenido |
 |---|---|
-| `ae_actividad04.py` | Análisis completo: modelo, óptimo certificado, siete etapas, 16 pruebas, calibración, experimento, estadística, figuras y verificación |
-| `construir_docx.py` | Genera el informe Word a partir de los CSV de `resultados/` |
-| `Actividad04_Romero_Lora.docx` | Informe final de 8 páginas |
 | `README.md` | Este documento |
 | `requirements.txt` | Dependencias |
 | `resultados/instancias.csv` | Óptimos, líneas base, reglas activas y medidas de dificultad |
