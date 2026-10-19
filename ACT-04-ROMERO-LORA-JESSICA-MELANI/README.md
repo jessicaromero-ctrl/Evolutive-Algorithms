@@ -69,7 +69,3 @@ Las 16 pruebas se ejecutan antes de cualquier experimento; si una falla, el scri
 - **El AG no es la herramienta práctica para este modelo.** Un solucionador de programación cuadrática resuelve cada instancia en menos de 0.11 s. El AG sería útil con demanda no cóncava o reglas no lineales.
 - **Resultados acotados.** Describen cuatro instancias de evaluación y una calibración en una quinta.
 - **Utilidad plana cerca del óptimo.** Soluciones casi igual de buenas pueden tener precios bastante distintos; la brecha mide utilidad, no cercanía de precios.
-
-## Procedencia
-
-El modelo y el cuadernillo base provienen de la Actividad 04 tal como se entregó originalmente; su README indica como autor a Víctor Manuel Santos Martínez. Las siete etapas y la nomenclatura M01–M30 provienen del material de la materia. La reorganización del código, la verificación de cifras y el informe corresponden a esta entrega.
