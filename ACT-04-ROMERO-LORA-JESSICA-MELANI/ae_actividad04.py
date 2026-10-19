@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 """
 Actividad 04 · Algoritmo genético para fijar precios de temporada.
-
-Versión refactorizada del cuadernillo original. Mantiene las reglas del modelo,
-las semillas, el orden de los sorteos aleatorios y las cifras del experimento,
+Este cuadernillo mantiene las reglas del modelo, las semillas, el orden de los sorteos aleatorios y las cifras del experimento,
 pero organiza el código en funciones independientes, quita código muerto,
 ejecuta las pruebas como funciones explícitas y comprueba automáticamente las
 cifras publicadas en el README original.
