@@ -25,7 +25,6 @@ Comparación de tres formas de recombinar (M14, M15, M16) y tres formas de mutar
 pip install -r requirements.txt
 python ae_actividad04.py                           # análisis, resultados y figuras (~2 min)
 python ae_actividad04.py --sin-figuras             # sólo tablas y pruebas (~2 min)
-python construir_docx.py --carpeta . --docx Actividad04_Romero_Lora.docx
 ```
 
 Las 16 pruebas se ejecutan antes de cualquier experimento; si una falla, el script se detiene. Todas las semillas están fijadas, de modo que dos ejecuciones producen las mismas cifras salvo las columnas de tiempo.
