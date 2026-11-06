@@ -1,0 +1,10 @@
+instancia,prueba,estadistico,p,mejor,empatadas_con_la_mejor
+E-base,"Friedman, 9 configuraciones",167.8222222222223,3.6880082483114094e-32,rand1+bin,ninguna
+E-base,Efecto principal de mutacion,8.95555555555552,0.01135862652170992,rand1,ninguna
+E-base,Efecto principal de cruce,136.02222222222235,2.9050240779201383e-30,bin,ninguna
+E-escasez,"Friedman, 9 configuraciones",156.3555555555556,9.240398562206234e-30,rand1+bin,best1+bin
+E-escasez,Efecto principal de mutacion,6.022222222222354,0.04923694064419894,rand1,ninguna
+E-escasez,Efecto principal de cruce,113.15555555555557,2.6827692065420217e-25,bin,ninguna
+E-amplia,"Friedman, 9 configuraciones",163.60888888888894,2.811786766305649e-31,rand1+bin,best1+bin · ctb1+bin
+E-amplia,Efecto principal de mutacion,2.0222222222223536,0.36381451655970454,ctb1,rand1
+E-amplia,Efecto principal de cruce,129.68888888888887,6.893116137546711e-29,bin,ninguna

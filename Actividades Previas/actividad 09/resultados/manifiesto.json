@@ -1,0 +1,120 @@
+{
+  "actividad": "Actividad previa número 9 · cartera estatal de inversión, Hidalgo (datos sintéticos)",
+  "alumna": "Jessica Melani Romero Lora (25322116)",
+  "entorno": {
+    "python": "3.12.3",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "plataforma": "Linux-6.18.44-fc-v242-x86_64-with-glibc2.39"
+  },
+  "parametros_calibrados": {
+    "best1+arit": {
+      "F": 0.8,
+      "CR": null,
+      "brecha_calibracion": 21.624077348607877
+    },
+    "best1+bin": {
+      "F": 0.8,
+      "CR": 0.5,
+      "brecha_calibracion": 3.8553766581657043
+    },
+    "best1+exp": {
+      "F": 0.8,
+      "CR": 0.9,
+      "brecha_calibracion": 8.04668280942882
+    },
+    "ctb1+arit": {
+      "F": 0.8,
+      "CR": null,
+      "brecha_calibracion": 15.527946631713068
+    },
+    "ctb1+bin": {
+      "F": 0.6,
+      "CR": 0.5,
+      "brecha_calibracion": 3.1167094697505915
+    },
+    "ctb1+exp": {
+      "F": 0.6,
+      "CR": 0.9,
+      "brecha_calibracion": 5.204139256161621
+    },
+    "rand1+arit": {
+      "F": 0.8,
+      "CR": null,
+      "brecha_calibracion": 18.19068584904516
+    },
+    "rand1+bin": {
+      "F": 0.4,
+      "CR": 0.5,
+      "brecha_calibracion": 2.109095933358156
+    },
+    "rand1+exp": {
+      "F": 0.6,
+      "CR": 0.9,
+      "brecha_calibracion": 3.8561876463327005
+    }
+  },
+  "elegida": "rand1+bin",
+  "zref": {
+    "E-base": 13466.210169341846,
+    "E-escasez": 13230.113373638713,
+    "E-amplia": 18850.817701501303
+  },
+  "semillas_evaluacion": [
+    20262517,
+    20262518,
+    20262519,
+    20262520,
+    20262521,
+    20262522,
+    20262523,
+    20262524,
+    20262525,
+    20262526,
+    20262527,
+    20262528,
+    20262529,
+    20262530,
+    20262531,
+    20262532,
+    20262533,
+    20262534,
+    20262535,
+    20262536,
+    20262537,
+    20262538,
+    20262539,
+    20262540,
+    20262541,
+    20262542,
+    20262543,
+    20262544,
+    20262545,
+    20262546
+  ],
+  "semillas_calibracion": [
+    20262500,
+    20262501,
+    20262502,
+    20262503,
+    20262504,
+    20262505
+  ],
+  "arranques_referencia": 200,
+  "segundos_totales": 1666.8448071500002,
+  "archivos": {
+    "resultados/busqueda_aleatoria.csv": "a46d526dc41bc1aa2e1b0633116067719ecfbab92b2856e7b3addb1b54d0fd5c",
+    "resultados/calibracion.csv": "77957cdfc00b0e506513bd18eb4d0c915151dabbde185db94a18043634f5d904",
+    "resultados/calibracion_elegidos.csv": "51e0e80a96211692adf4e2df1053cbf97ecd1b76740d259323d305fbf4161a9b",
+    "resultados/cartera_E-base_elegida.csv": "1c075dbe19b98582c610b6b5901fac78ab9c9bba293b461c959710e261e882d1",
+    "resultados/convergencia_E-base.csv": "0b446bc93809d5639c9790f502a1801d9811eac2259008c7b947d8614191a6f8",
+    "resultados/corridas.csv": "a367b3e877f16eb46d03e37a3aaf1db438061602768bba1f87507c60d871ef7d",
+    "resultados/elegida_vs_ag_previo.csv": "c04b6bd5faaa53dfda13e329159363bee19fdb788c6bb7273bc482a6d103669e",
+    "resultados/pruebas_estadisticas.csv": "4fb48077ad9fb7aff46e03f2a6f5db7ee4a0dd060bda6fb718c83dd50ea0cb80",
+    "resultados/ranking_global.csv": "a8bc071faca305c56c1c4a2d8a48943a2c8074c1a984b70d8458018758ac4845",
+    "resultados/referencias.csv": "779de41ca303fdaf246e7d08a486ecefa26a8535c2792ef735bacae772294737",
+    "resultados/resumen.csv": "90e74dd83b85ba9c435744148157bba6aa0f7c3331cd5f3094f2cbd2e04d17d9",
+    "resultados/zref.csv": "fc1b794870c96ca97e73f9ec9435d8880989d912573d2bce7c03ce44c5b25fa0"
+  }
+}
