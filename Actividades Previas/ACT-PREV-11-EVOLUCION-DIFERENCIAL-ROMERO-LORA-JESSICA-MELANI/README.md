@@ -11,7 +11,7 @@
 | Modalidad | Individual |
 | Fecha de entrega | 20 de noviembre de 2026 |
 
-Reporte completo en DOCX: [`Reporte_Evolucion_Diferencial_Multiobjetivo_Romero_Lora.docx`](Reporte_Evolucion_Diferencial_Multiobjetivo_Romero_Lora.docx)
+Reporte completo en PDF: [`ACT-PREV-11-EVOLUCION-DIFERENCIAL-ROMERO-LORA-JESSICA-MELANI.pdf`](ACT-PREV-11-EVOLUCION-DIFERENCIAL-ROMERO-LORA-JESSICA-MELANI.pdf)
 
 ---
 
@@ -224,7 +224,7 @@ Todas las soluciones finales fueron factibles. Las cuatro estrategias alcanzan l
 ```
 evolucion_de_mo/
 ├── README.md
-├── Reporte_Evolucion_Diferencial_Multiobjetivo_Romero_Lora.docx
+├── ACT-PREV-11-EVOLUCION-DIFERENCIAL-ROMERO-LORA-JESSICA-MELANI.pdf
 ├── .gitignore
 ├── codigo/
 │   ├── mode_core.py          # MODE, dominancia restringida, indicadores, pruebas
