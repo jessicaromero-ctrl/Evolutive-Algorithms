@@ -1,0 +1,7 @@
+instancia,algoritmo,HV_mediana,IGD_mediana,IGD_q1,IGD_q3,recuperados_media,fraccion_mediana,n_nd_mediana
+"A (n=9, exacta)",Aleatoria,1.1159,0.0703742,0.0644345,0.075998,0.4,0,21
+"A (n=9, exacta)",NSGA-II (OX),1.19558,0.0145248,0.0126952,0.0155967,22.9667,0.821429,27
+"A (n=9, exacta)",NSGA-II (PMX),1.19629,0.0117233,0.0113107,0.0136835,24.4333,0.892857,28
+"B (n=25, referencia)",Aleatoria,0.927503,0.249481,0.240529,0.260301,0,0,35.5
+"B (n=25, referencia)",NSGA-II (OX),1.23836,0.0584199,0.0485916,0.0624771,0,0,43.5
+"B (n=25, referencia)",NSGA-II (PMX),1.27134,0.036398,0.0333235,0.0405385,0.0666667,0,63.5

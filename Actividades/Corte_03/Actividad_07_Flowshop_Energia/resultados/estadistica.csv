@@ -1,0 +1,19 @@
+instancia,comparacion,metrica,mediana_a,mediana_b,p,A12_a_mejor,p_holm
+"A (n=9, exacta)",NSGA-II (OX) vs NSGA-II (PMX),HV,1.19558,1.19629,0.151887,0.376667,0.151887
+"A (n=9, exacta)",NSGA-II (OX) vs Aleatoria,HV,1.19558,1.1159,1.86265e-09,1,5.58794e-09
+"A (n=9, exacta)",NSGA-II (PMX) vs Aleatoria,HV,1.19629,1.1159,1.86265e-09,1,5.58794e-09
+"A (n=9, exacta)",NSGA-II (OX) vs NSGA-II (PMX),IGD,0.0145248,0.0117233,0.0046648,0.3,0.0046648
+"A (n=9, exacta)",NSGA-II (OX) vs Aleatoria,IGD,0.0145248,0.0703742,1.86265e-09,1,5.58794e-09
+"A (n=9, exacta)",NSGA-II (PMX) vs Aleatoria,IGD,0.0117233,0.0703742,1.86265e-09,1,5.58794e-09
+"A (n=9, exacta)",NSGA-II (OX) vs NSGA-II (PMX),fraccion_frente,0.821429,0.892857,0.00162225,0.257222,0.00162225
+"A (n=9, exacta)",NSGA-II (OX) vs Aleatoria,fraccion_frente,0.821429,0,1.59119e-06,1,4.58779e-06
+"A (n=9, exacta)",NSGA-II (PMX) vs Aleatoria,fraccion_frente,0.892857,0,1.52926e-06,1,4.58779e-06
+"B (n=25, referencia)",NSGA-II (OX) vs NSGA-II (PMX),HV,1.23836,1.27134,1.30385e-07,0.0588889,1.30385e-07
+"B (n=25, referencia)",NSGA-II (OX) vs Aleatoria,HV,1.23836,0.927503,1.86265e-09,1,5.58794e-09
+"B (n=25, referencia)",NSGA-II (PMX) vs Aleatoria,HV,1.27134,0.927503,1.86265e-09,1,5.58794e-09
+"B (n=25, referencia)",NSGA-II (OX) vs NSGA-II (PMX),IGD,0.0584199,0.036398,1.86265e-09,0.0444444,5.58794e-09
+"B (n=25, referencia)",NSGA-II (OX) vs Aleatoria,IGD,0.0584199,0.249481,1.86265e-09,1,5.58794e-09
+"B (n=25, referencia)",NSGA-II (PMX) vs Aleatoria,IGD,0.036398,0.249481,1.86265e-09,1,5.58794e-09
+"B (n=25, referencia)",NSGA-II (OX) vs NSGA-II (PMX),fraccion_frente,0,0,0.317311,0.483333,0.951932
+"B (n=25, referencia)",NSGA-II (OX) vs Aleatoria,fraccion_frente,0,0,1,0.5,1
+"B (n=25, referencia)",NSGA-II (PMX) vs Aleatoria,fraccion_frente,0,0,0.317311,0.516667,0.951932
